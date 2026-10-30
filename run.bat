@@ -1,0 +1,3 @@
+@echo off
+echo Starting Merged Teacher Management System on http://localhost:8080 ...
+java -jar Teacher\target\Teacher-0.0.1-SNAPSHOT.jar
